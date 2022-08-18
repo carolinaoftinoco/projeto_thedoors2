@@ -1,4 +1,4 @@
-**PROJETO THE DOORS** (Versão 1.1)
+**PROJETO THE DOORS** (Versão 2.0)
 
 
 Eis um simples projeto que apresenta a discografia básica, em estúdio, da banda The Doors. Ainda faltam as resenhas e alguns ajustes estéticos.
